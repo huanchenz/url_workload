@@ -16,7 +16,7 @@ Link to the url collection: http://chato.cl/webspam/datasets/uk2007/links/
 
 2. Run YCSB_URL/scripts/gen_url_sample.py to generate a uniform url sample.
 
-   python gen_url_sample.py <url collection file> <sample size> > <output file>
+   python gen_url_sample.py (url collection file) (sample size) > (output file)
    
    e.g.
    
