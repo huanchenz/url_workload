@@ -44,11 +44,11 @@ Link to the url collection: http://chato.cl/webspam/datasets/uk2007/links/
 
     e.g. $ python reverseHostname.py ../urls/url_1M.dat
 
-   The script will generate url_1M_reverse.dat in ../urls/
+   The script will generate url_1M_reverse.dat in YCSB_URL/urls/
 
 5. Run gen_url_wload.sh
 
     $ bash gen_url_wload.sh
 
-   Output files are in YCSB_URL/output_url/
+   Output files are in YCSB_URL/output_url/, and they are directly used to test Masstree.
 
