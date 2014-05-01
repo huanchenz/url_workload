@@ -26,6 +26,8 @@ Link to the url collection: http://chato.cl/webspam/datasets/uk2007/links/
 
    Then build YCSB
 
+    $ cd YCSB
+
     $ mvn clean package
 
 3. In YCSB_URL/scripts/, run gen_url_sample.py to generate a UNIFORMLY distributed url sample.
@@ -48,5 +50,5 @@ Link to the url collection: http://chato.cl/webspam/datasets/uk2007/links/
 
     $ bash gen_url_wload.sh
 
-   output files are in YCSB_URL/output_url/
+   Output files are in YCSB_URL/output_url/
 
