@@ -50,5 +50,5 @@ Link to the url collection: http://chato.cl/webspam/datasets/uk2007/links/
 
     $ bash gen_url_wload.sh
 
-   Output files are in YCSB_URL/output_url/, and they are directly used to test Masstree.
+   Output files are in YCSB_URL/output_url/, and they are used to test Masstree.
 
