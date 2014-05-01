@@ -8,9 +8,9 @@ size: 904MB
 
 number of urls: 105,896,555
 
-Link to the url collection: http://chato.cl/webspam/datasets/uk2007/links/
+Link to the URL collection: http://chato.cl/webspam/datasets/uk2007/links/
 
-## Procedures to generate a URL workload ##
+## Procedure to generate a URL workload ##
 
 1. Download the URL collection.
 
